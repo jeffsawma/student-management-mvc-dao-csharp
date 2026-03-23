@@ -11,7 +11,7 @@ namespace TD8__MVC___DAO_en_C__.DataAccessLayer.DataAccess
     {
         // 1) Windows Authentication + SQL Express
         // Database name is TD8-Projet1
-        private const string ConnString = "Server=localhost\\SQLEXPRESS;Database=TD8-Projet1;Trusted_Connection=True;TrustServerCertificate=True;";
+        private const string ConnString = "Server=localhost;Database=TD8-Projet1;Trusted_Connection=True;TrustServerCertificate=True;";
 
         /// <summary>
         /// Returns an OPEN SqlConnection

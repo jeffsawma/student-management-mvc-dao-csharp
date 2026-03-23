@@ -72,3 +72,19 @@ This project helped me understand:
 ## Notes
 
 This project focuses more on architecture and backend structure rather than UI, since everything is done through the console.
+
+## Screenshots
+
+Here are some screenshots showing the main features of the application:
+
+### Main Menu
+![Main Menu](screenshots/menuPrincipal.png)
+
+### Student Management
+![Student Management](screenshots/gestionEtudiant.png)
+
+### Course Management
+![Course Management](screenshots/gestionCours.png)
+
+### Enrollment Management
+![Enrollment Management](screenshots/gestionInscription.png)
